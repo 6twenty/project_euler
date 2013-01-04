@@ -1,4 +1,4 @@
-project_euler
+Project Euler
 =============
 
-My solutions to the challenges posted at projecteuler.net
+These are my solutions to the challenges posted at projecteuler.net
