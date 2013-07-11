@@ -25,7 +25,7 @@ class Program
     is_multiple_of_3?(n) || is_multiple_of_5?(n)
   end
   
-  # Run the program: print the sum of all multiples of 3 or 5 below 1000.
+  # Run the program: return the sum of all multiples of 3 or 5 below 1000.
   def run
     (1...1_000).select { |n| is_multiple_of_3_or_5?(n) }.inject(:+)
   end
